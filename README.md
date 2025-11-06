@@ -31,6 +31,8 @@ This project demonstrates my ability to take a cloud-automated ML pipeline from 
 
 **Validation Accuracy:** `0.969`  
 **Validation Loss:** `0.18`  
-<img width="277" height="435" alt="Loss_Curve" src="https://github.com/user-attachments/assets/4367b2bf-222c-496d-b6bb-bc4d68f3e756" />
+<img width="277" height="435" alt="Loss_Curve" src="https://github.com/user-attachments/assets/4367b2bf-222c-496d-b6bb-bc4d68f3e756" />        <img width="483" height="374" alt="image" src="https://github.com/user-attachments/assets/8d1de08c-f5ee-46c7-86ff-bcbd1e18814f" />
+
+
 
 
